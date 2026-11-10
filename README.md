@@ -8,7 +8,7 @@ Repository ini berisi kumpulan project yang saya kembangkan sebagai bagian dari 
 
 Kunjungi aplikasi penggajian saya:
 
-[Klik di sini untuk membuka Aplikasi Penggajian](https://dash.infinityfree.com/accounts/if0_42357494/domains/hotelmantap.freedev.app)
+[Klik di sini untuk membuka Aplikasi Penggajian](https://hotelmantap.freedev.app)
 
 ## 🚀 Featured Project
 
