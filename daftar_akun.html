@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Saya</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <h1>Buat Akun</h1>
+
+
+<form id="formDaftar" action="menuAwal_akun.php" method="POST">
+
+    
+    <!-- Username -->
+    <label for="username">Username</label><br>
+    <input 
+        type="text" 
+        id="username" 
+        name="username" 
+        placeholder="Masukkan username" 
+        required
+    >
+
+    <br><br>
+
+    <!-- Password -->
+    <label for="password">Password</label><br>
+    <input 
+        type="password" 
+        id="password" 
+        name="password" 
+        placeholder="Masukkan password" 
+        required
+    >
+
+    <br><br>
+
+    <!-- Konfirmasi password -->
+    <label for="konfirmasi_password">Konfirmasi Password</label><br>
+    <input 
+        type="password" 
+        id="konfirmasi_password" 
+        name="konfirmasi_password" 
+        placeholder="Ulangi password" 
+        required
+    >
+
+    <!-- Pesan password -->
+    <p id="pesan"></p>
+
+    <br>
+
+    <!-- Tombol daftar -->
+    <button 
+    type="submit" 
+    id="daftar" 
+    name="daftar" 
+    disabled>
+    daftar
+    </button>
+
+</form>
+        <!-- logic masuk ke akun -->
+    <script src="logicmasuk_akun.js"></script>
+
+</body>
+</html>
