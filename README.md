@@ -4,6 +4,12 @@ This is my Repository
 
 Repository ini berisi kumpulan project yang saya kembangkan sebagai bagian dari proses belajar, eksplorasi teknologi, dan pengembangan kemampuan di bidang pemrograman.
 
+## 🌐 Live Demo
+
+Kunjungi aplikasi penggajian saya:
+
+[Klik di sini untuk membuka Aplikasi Penggajian](https://dash.infinityfree.com/accounts/if0_42357494/domains/hotelmantap.freedev.app)
+
 ## 🚀 Featured Project
 
 ### 1. Aplikasi Penggajian Karyawan
